@@ -1,2 +1,3 @@
 pvfactors==1.4.1
-ipykernel
+jupyter
+notebook
