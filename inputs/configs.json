@@ -7,6 +7,7 @@
             "pvrow_width": 0.989,
             "gcr": 0.35,
             "tilt": 20,
+            "azimuth": 180,
             "albedo": 0.62
         },
         "S2": {
@@ -16,6 +17,7 @@
             "pvrow_width": 0.989,
             "gcr": 0.33,
             "tilt": 25,
+            "azimuth": 270,
             "albedo": 0.4
         },
         "S3": {
@@ -25,6 +27,7 @@
             "pvrow_width": 0.989,
             "gcr": 0,
             "tilt": 90,
+            "azimuth": 90,
             "albedo": 0.4
         },
         "S4": {
@@ -34,6 +37,7 @@
             "pvrow_width": 1.991,
             "gcr": 0.35,
             "tilt": null,
+            "azimuth": null,
             "albedo": 0.25
         }
     },
