@@ -1,0 +1,5 @@
+.ipynb_check*
+.vscode
+*.pyc
+~$*.xlsx
+.DS_Store

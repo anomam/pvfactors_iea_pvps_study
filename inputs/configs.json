@@ -1,0 +1,50 @@
+{
+    "pvfactors_config": {
+        "S1": {
+            "n_pvrows": 7,
+            "axis_azimuth": 270,
+            "pvrow_height": 0.6691289608745432,
+            "pvrow_width": 0.989,
+            "gcr": 0.35
+        },
+        "S2": {
+            "n_pvrows": 7,
+            "axis_azimuth": 0,
+            "pvrow_height": 0.9589847304307759,
+            "pvrow_width": 0.989,
+            "gcr": 0.33
+        },
+        "S3": {
+            "n_pvrows": 1,
+            "axis_azimuth": 90,
+            "pvrow_height": 0.7945,
+            "pvrow_width": 0.989,
+            "gcr": 0
+        },
+        "S4": {
+            "n_pvrows": 10,
+            "axis_azimuth": 0,
+            "pvrow_height": 1.2,
+            "pvrow_width": 1.991,
+            "gcr": 0.35
+        }
+    },
+    "irradiance_params": {
+        "S1": {
+            "horizon_band_angle": 15,
+            "module_spacing_ratio": 0.0047488127968008005
+        },
+        "S2": {
+            "horizon_band_angle": 15,
+            "module_spacing_ratio": 0.0047488127968008005
+        },
+        "S3": {
+            "horizon_band_angle": 15,
+            "module_spacing_ratio": 0.0047488127968008005
+        },
+        "S4": {
+            "horizon_band_angle": 15,
+            "module_spacing_ratio": 0.009514271407110664
+        }
+    }
+}
