@@ -40,19 +40,27 @@
     "irradiance_params": {
         "S1": {
             "horizon_band_angle": 15,
-            "module_spacing_ratio": 0.0047488127968008005
+            "module_spacing_ratio": 0.0047488127968008005,
+            "rho_front": 0.029355328821075943,
+            "rho_back": 0.029355328821075943
         },
         "S2": {
             "horizon_band_angle": 15,
-            "module_spacing_ratio": 0.0047488127968008005
+            "module_spacing_ratio": 0.0047488127968008005,
+            "rho_front": 0.029355328821075943,
+            "rho_back": 0.029355328821075943
         },
         "S3": {
             "horizon_band_angle": 15,
-            "module_spacing_ratio": 0.0047488127968008005
+            "module_spacing_ratio": 0.0047488127968008005,
+            "rho_front": 0.029355328821075943,
+            "rho_back": 0.029355328821075943
         },
         "S4": {
             "horizon_band_angle": 15,
-            "module_spacing_ratio": 0.009514271407110664
+            "module_spacing_ratio": 0.009514271407110664,
+            "rho_front": 0.029355328821075943,
+            "rho_back": 0.029355328821075943
         }
     }
 }
