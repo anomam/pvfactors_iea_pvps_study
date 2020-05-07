@@ -25,7 +25,7 @@
             "axis_azimuth": 90,
             "pvrow_height": 0.7945,
             "pvrow_width": 0.989,
-            "gcr": 0,
+            "gcr": 1,
             "tilt": 90,
             "azimuth": 90,
             "albedo": 0.4
